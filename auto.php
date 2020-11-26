@@ -4,7 +4,7 @@
  * Minggu	Sunday	
  * Senin	Monday	
  * Selasa	Tuesday	
- * Rabu   Wednesday	
+ * Rabu     Wednesday	
  * Kamis	Thursday	
  * Jumat	Friday	
  * Sabtu	Saturday
