@@ -9,7 +9,7 @@
  * Jumat	Friday	
  * Sabtu	Saturday
  *
- * Coded by : BENON_
+ * Coded by : Yorima_
  * Team     : ZoneXploiter
  */
 
