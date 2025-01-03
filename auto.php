@@ -10,7 +10,9 @@
  * Sabtu	Saturday
  *
  * Coded by : Yorima_
+ * bio      : suka naik gunung & healing
  * Team     : ZoneXploiter
+ * Note     : Semua bisa di Maafkan kecuali selingkuh
  */
 
 # auto description
